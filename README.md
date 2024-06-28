@@ -1,7 +1,7 @@
 # 3D Scene Demo
 This is a demo (or template/starting point, rather) for a 3D game. It comes with raylib and ReactPhysics3D installed locally, so all that's needed is to build and run.
 
-Tested on macOS and Windows.
+Tested on macOS (TODO: Windows).
 
 <img width="693" alt="image" src="https://github.com/shreejitmurthy/raylib_3d_example/assets/87323435/4da66602-054c-44a2-9fa1-db4a1e1e1048">
 
